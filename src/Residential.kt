@@ -1,3 +1,18 @@
+/**
+ * Class Residential
+ * @author Brian B
+ * date: 3/7/20
+ * @param
+ * senior is if the customer gets the senior discount
+ * residentialRate is the rate the customer is being charged based on square footage of the property
+ * weeklyRate is the calculated weekly rate they are charged
+ * currency will format the weekly charges to money
+ *
+ * mod
+ *BCB 3/7/20 added comment blocks
+ *
+ */
+
 import java.text.DecimalFormat
 
 class Residential constructor(

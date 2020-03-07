@@ -1,3 +1,18 @@
+/**
+ * Class Customer
+ * @author Brian B
+ * date: 3/7/20
+ * @param
+ * customerName is the name of the customer
+ * customerAddress is the customer's address
+ * customerPhone is the customer's phone
+ * squareFootage is the properties square footage
+ *
+ * mod
+ *BCB 3/7/20 added comment blocks
+ *
+ */
+
 open class Customer constructor(
     customerName: String,
     customerPhone: String,

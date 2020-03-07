@@ -1,3 +1,18 @@
+/**
+ * Class Commercial
+ * @author Brian B
+ * date: 3/7/20
+ * @param
+ * propertyName is the name of the property
+ * multiProperty is if the customer has multiple properties
+ * commercialRate is the rate they are being charged based on the square footage of the property
+ * weeklyRate is the calculated weekly rate they are charged
+ * currency will format the weekly charges to money
+ *
+ * mod
+ *BCB 3/7/20 added comment blocks
+ *
+ */
 import java.text.DecimalFormat
 
 class Commercial constructor(

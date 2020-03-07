@@ -1,3 +1,22 @@
+/**
+ * Class main
+ * @author Brian B
+ * date: 3/7/20
+ * @param
+ * name is the full name of the person
+ * phone is the phone number of the person
+ * address is the address of the person
+ * squareFeet is the properties square footage
+ * seniorDiscount is if the residential customer gets the senior discount
+ * multipleProperties is if the commercial customer has multiple properties
+ * propertyName is the name of the property
+ * choice determines which type of customer is created
+ *
+ * mod
+ *BCB 3/7/20 added comment blocks
+ *
+ */
+
 //Declare global variables that can be used in multiple functions
 var name: String = ""
 var phone: String = ""
